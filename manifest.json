@@ -1,0 +1,10 @@
+{
+  "id": "ob-right-click-context-menu",
+  "name": "Right-click Menu",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Choose which items appear in the editor right-click menu, and pin any command to it.",
+  "author": "liushenn",
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/liushenn"
+}
